@@ -1,7 +1,5 @@
-Hi all. I'm looking forward to seeing you all at 12pm today and meeting some new folks.
- 
-Below is a draft of the schedule for the next four months -- it would be great to get feedback on it, get it into a state on which we agree.
- 
+# Schedule
+
 **Jan 10**
 - Introductions
 - Setup
